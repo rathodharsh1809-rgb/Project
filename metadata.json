@@ -1,0 +1,6 @@
+{
+  "name": "CivicPulse Prototype Studio",
+  "description": "Interactive Smart City Complaint Portal and Healthcare Appointment System prototype with complete 5-step product specification, UX wireframes, single-file HTML export, QA enhancements, and technical evaluation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
